@@ -12,8 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		LICENSE = LICENSE
 		PostCodeDataXML.md = PostCodeDataXML.md
 		README.md = README.md
-		README_JS.md = README_JS.md
-		REMARKS_ON_JapanPost.md = REMARKS_ON_JapanPost.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yokinsoft.ZipCode.Data", "Yokinsoft.ZipCode.Data\Yokinsoft.ZipCode.Data.csproj", "{5A2A12F6-9FFF-4816-9A6A-61C048B8715C}"
@@ -41,7 +39,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		BuildVersion_StartDate = 2000/1/1
 		SolutionGuid = {D292D0CB-6DBC-4EA6-9193-C6992CDE6475}
+		BuildVersion_StartDate = 2000/1/1
 	EndGlobalSection
 EndGlobal

@@ -41,9 +41,14 @@ HTMLフォーム上での住所入力アシストなどをセットした開発�
 - [Yokinsoft.ZipCode.Web WebAPI用 JSON 等フォーマットライブラリ](Yokinsoft.ZipCode.Web)
 
 ----
+## 著作権
+
+本プロジェクトの著作権は Yokinsoft (陽気なソフト) が保持します。
+
 ## ライセンス
 
 本リポジトリに含まれるすべてのプロジェクトは MIT ライセンス。
+
 
 ## JapanPostCodeData.xml
 
